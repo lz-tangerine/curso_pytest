@@ -1,4 +1,4 @@
-#!/home/carolinam/PycharmProjects/pythonProject/curso_pytest2/curso_pytest2/bin/python3
+#!/home/carolinam/PycharmProjects/pythonProject/curso_pytest/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
