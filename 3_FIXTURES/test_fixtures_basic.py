@@ -7,4 +7,5 @@ def sample_list():
 def test_sum(sample_list):
     assert sum(sample_list) == 15
 
-def test_len
+def test_lenght(sample_list):
+    assert len(sample_list) == 5
